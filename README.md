@@ -1,2 +1,15 @@
-# landing-page
-Landing page responsiva e animada com HTML, CSS, JavaScript e um pouco de JQUERY
+# Landing page responsiva e animada
+
+## Tecnologias:
+
+* HTML
+
+* CSS
+
+* JS
+
+* JQUERY
+
+## Screenshot
+
+![Screenshot](screenshot.png)
